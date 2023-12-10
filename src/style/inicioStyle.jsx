@@ -5,7 +5,7 @@ export const Img = styled.img`
     border-radius: 100px;
 
     @media (max-width: 800px) {
-        width: 80vw;
+        width: 50vw;
     }
 `
 export const Sessao = styled.section`
@@ -17,7 +17,6 @@ export const Sessao = styled.section`
 
     @media (max-width: 800px){
         flex-direction: column;
-
     }
 `
 export const Div = styled.div`
@@ -25,25 +24,8 @@ export const Div = styled.div`
     color: #FFFFFF;
 
     @media (max-width: 800px) {
-    width: 80vw;
-    text-align: center;
-    }
-`
-export const Redes = styled.figure`
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-    img{
-        width: 2vw;
-    }
-    a{
-        margin: 15px 25px ;
-    }
-
-
-    @media (max-width: 800px){
-        flex-direction: column;
-
+    width: 95vw;
+    text-align: left;
+    font-size: 20px;
     }
 `

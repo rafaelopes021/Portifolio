@@ -15,13 +15,12 @@ export const Navegacao = styled.ul`
     width: 40vw;
 
     @media (max-width:800px){
-        width: 80vw;
-        font-size: 20px;
+        width: 70vw;
     }
 
     a{
-        text-decoration: none;
         color: #2E2E2E;
-        font-size: 25px;
+        font-size: 18px;
+        margin-left: 18px;
     }
 `

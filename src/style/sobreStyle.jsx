@@ -25,10 +25,32 @@ export const Div = styled.div`
     color: #FFFFFF;
     align-items: center;
     flex-direction: column;
+
+    p{
+        margin: 15px;
+    }
     
 
     @media (max-width: 800px) {
     width: 80vw;
     text-align: center;
+    }
+`
+export const Redes = styled.figure`
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img{
+        width: 2vw;
+    }
+    a{
+        margin: 15px 25px ;
+    }
+
+
+    @media (max-width: 800px){
+        flex-direction: column;
+
     }
 `
