@@ -5,6 +5,8 @@ import Css from "../assets/css3.svg";
 import ReactImg from "../assets/react.svg";
 import GitHub from "../assets/github.svg";
 import StyledComponets from "../assets/styledComponets.png"
+import JavaS from "../assets/javas.svg"
+import Sass from "../assets/sass.svg"
 
 
 function Habilidades(){
@@ -35,16 +37,12 @@ function Habilidades(){
                     <h3>STYLED COMPONETS</h3>
                 </li>
                 <li>
-                    <img src={Css} alt="Logo CSS3" />
-                    <h3>CSS3</h3>  
+                    <img src={JavaS} alt="Logo JavaScript" />
+                    <h3>JAVASCRIPT</h3>  
                 </li>
                 <li>
-                    <img src={ReactImg} alt="Logo React" />
-                    <h3>REACT</h3>
-                </li>
-                <li>
-                    <img src={GitHub} alt="Logo GitHub" />
-                    <h3>GITHUB</h3>
+                    <img src={Sass} alt="Logo SASS" />
+                    <h3>SASS</h3>
                 </li>
             </Skills>
         </Corpo>

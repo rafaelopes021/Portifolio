@@ -12,6 +12,7 @@ export const Sessao = styled.section`
 
     @media (max-width: 800px){
         flex-direction: column;
+        font-size: 20px;
 
     }
 `
@@ -32,8 +33,10 @@ export const Div = styled.div`
     
 
     @media (max-width: 800px) {
-    width: 80vw;
+    width: 100vw;
+    height: 75vh;
     text-align: center;
+    font-size: 15px;
     }
 `
 export const Redes = styled.figure`
@@ -50,7 +53,11 @@ export const Redes = styled.figure`
 
 
     @media (max-width: 800px){
-        flex-direction: column;
+        width: 80vw;
+        height: 8vh;
 
+        img{
+        width: 8vw;
+    }
     }
 `
