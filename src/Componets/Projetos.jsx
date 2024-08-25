@@ -1,5 +1,5 @@
 import React from "react";
-
+import ProjetoSimpsons from "../assets/projeto-simpsons.png";
 import {Img, Container, Sessao, Corpo} from "../style/projetosStyle";
 
 function Projetos(){
@@ -9,12 +9,12 @@ function Projetos(){
     <Sessao>
       <Container>
         <figure>
-          <a href="" target="_blank">
-            <Img src="" alt="" />
+          <a href="https://sp7dvt.csb.app/" target="_blank">
+            <Img src={ProjetoSimpsons} alt="Foto do projeto dos Simpsons" />
           </a>
         </figure>
-        <h2>Projeto</h2>
-        <h3>Descrição</h3>
+        <h2>Os Simpsons</h2>
+        <h3>P</h3>
         <p>...</p>
       </Container>
       
