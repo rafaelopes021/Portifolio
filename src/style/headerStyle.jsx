@@ -15,7 +15,7 @@ export const Navegacao = styled.ul`
     width: 40vw;
 
     @media (max-width:800px){
-        width: 70vw;
+        width: 100vw;
     }
 
     a{

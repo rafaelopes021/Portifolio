@@ -14,8 +14,8 @@ function Projetos(){
           </a>
         </figure>
         <h2>Os Simpsons</h2>
-        <h3>P</h3>
-        <p>...</p>
+        <h3>HTML E CSS</h3>
+        <p>Projeto simples e ilustrativo, apresentando alguns personagens do desenho. Projeto bem responsivo, visando explorar algumas interações como "hover" e algumas estilizações no CSS.</p>
       </Container>
       
       <Container>

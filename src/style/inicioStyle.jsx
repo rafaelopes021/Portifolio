@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const Img = styled.img`
-    width: 20vw;
+    width: 30vw;
     border-radius: 100px;
 
     @media (max-width: 800px) {
-        width: 50vw;
+        width: 85vw;
     }
 `
 export const Sessao = styled.section`

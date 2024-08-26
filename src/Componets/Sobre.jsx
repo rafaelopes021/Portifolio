@@ -20,7 +20,7 @@ function Sobre(){
             <a href="https://www.linkedin.com/in/rafaelopes021/" target="_blank">
               <img src={Linkedin} alt="" />
             </a>
-            <a href="" target="_blank">
+            <a href="https://w.app/ContatoRafaelLopes" target="_blank">
               <img src={Whats} alt="" />
             </a>
             <a href="https://github.com/rafaelopes021" target="_blank">

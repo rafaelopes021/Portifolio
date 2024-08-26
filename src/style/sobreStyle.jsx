@@ -21,10 +21,9 @@ export const Div = styled.div`
     align-items: center;
     justify-content: center;
     width: 70vw;
-    height: 60vh;
-    font-size: 25px;
+    height: 65vh;
+    font-size: 22px;
     color: #FFFFFF;
-    align-items: center;
     flex-direction: column;
 
     p{
